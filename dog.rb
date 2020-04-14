@@ -1,3 +1,3 @@
 def sudi
-  puts "gogo go go"
+  puts "gogo go go heelo"
 end
