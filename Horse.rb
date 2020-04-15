@@ -1,3 +1,3 @@
 def run
- puts "ok"
+ puts "ok ok"
 end
